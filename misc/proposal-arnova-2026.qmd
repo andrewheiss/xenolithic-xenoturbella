@@ -1,0 +1,90 @@
+---
+title: "ARNOVA 2026 proposal"
+date: 2026-05-06
+author:
+- name: Andrew Heiss
+  affiliations: 
+    - id: gsu
+      name: Georgia State University
+      department: Andrew Young School of Policy Studies, Department of Public Management and Policy
+      address: "55 Park Place NE, #464"
+      city: Atlanta
+      region: GA
+      country: USA
+      postal-code: 30303
+  url: https://www.andrewheiss.com/
+  email: aheiss@gsu.edu
+  orcid: 0000-0002-3948-3914
+  attributes:
+    corresponding: true
+bibliography: ../manuscript/bib/references.bib
+format:
+  html:
+    toc: true
+  gfm:
+    wrap: preserve
+---
+
+### Title
+
+::: {.callout-note icon=false title="Instructions"}
+(list 15 words)
+:::
+
+Double Jeopardy: Closing Civic Space, Restrictions on Religion, and Faith-Based NGOs
+
+### Track
+
+Global Civil Society, Social Movements, and Grassroots Associations
+
+### Submission keywords
+
+::: {.callout-note icon=false title="Instructions"}
+(list 2-4 keywords)
+:::
+
+civil society restrictions, international NGOs, faith-based NGOs, religion
+
+### What is your research question or thesis statement?
+
+Do faith-based NGOs operate in a compounded regulatory environment in countries with simultaneously high religious restrictions and high civil society restrictions, and what characterizes these contexts? 
+
+### Abstract
+
+::: {.callout-note icon=false title="Instructions"}
+(50-100 words summary to be included in the session description)
+:::
+
+Though religion is often considered a part of civil society, governments regulate—and in repressive contexts, restrict—religious and civil society organizations for subtly different reasons: NGO restrictions are often driven by a logic of regime stability while religious restrictions by a logic of social homogeneity and legitimation. However, the literatures exploring civil society and NGO restrictions have developed in isolation, and we do not know whether these restrictions co-vary empirically. Using the Pew Government Restrictions Index, the V-Dem Core Civil Society Index, and anti-NGO law counts, I examine whether faith-based NGOs face compounded regulatory exposure in countries with simultaneously high civil society and religious restrictions, and what characterizes those contexts.
+
+### Narrative description
+
+::: {.callout-note icon=false title="Instructions"}
+Individual submissions include:
+
+1. a clear research question
+2. grounding in the state of knowledge or literature
+3. methodological approach
+4. findings or expected findings
+5. expected contributions
+
+5,000 characters
+:::
+
+Over the past two decades, governments worldwide have enacted a wave of laws restricting civil society organizations—regulating registration, fundraising, foreign funding, and operational activities for domestic and international nongovernmental organizations (NGOs). Scholars have documented this "closing space" phenomenon extensively [@CarothersBrechenmacher:2014; @DupuyFransenPrakash:2021; @Chaudhry:2022; @ChaudhryDotsonHeiss:2025].
+
+Parallel scholarship on religious freedom has independently documented rising government restrictions on religious practice, assembly, and expression [@Majumdar:2024]. Religious organizations are traditionally considered to be a core component of civil society. However, little research has been done exploring how broader civil society laws and restrictions apply to and interact with religious organizations. We do not know whether government restrictions on religion and general civil society restrictions move together across countries and over time, or whether they represent empirically distinct phenomena driven by different political or bureaucratic logics.
+
+In this exploratory project, I examine two related research questions: (1) do faith-based NGOs operate in a compounded regulatory environment in countries with simultaneously high religious restrictions and high civil society restrictions, and (2) what characterizes these contexts?
+
+I argue that governments restrict civil society and religion through two analytically distinct channels, each responding to different political logics. General civil society restrictions are primarily driven by a logic of regime stability [@HeissChaudhry:2026]. Governments restrict NGOs using nonviolent, administrative lawfare when they perceive civil society as a threat to incumbency—regardless of the religious character of these organizations. 
+
+Religion-specific restrictions respond to a different political logic: governments restrict religious practice to maintain social cohesion, satisfy conservative constituencies, protect the privileges of majority religious traditions, or suppress minority communities perceived as threats to social order [@FoxAkbaba:2015; @GrimFinke:2010]. 
+
+These logics operate through different institutional mechanisms and target different actors, leading to divergences in regulatory outcomes. Faith-based NGOs (FBNGOs) represent the clearest empirical case of compound regulatory exposure. An FBNGO operating in a country with both high civil society restrictions and high religious restrictions faces pressure through two independent institutional channels. Whether this compound exposure is empirically common—and which country contexts generate it—has not been systematically examined.
+
+I test this theory using three datasets: (1) the Pew Government Restrictions Index (GRI); (2) the Varieties of Democracy (V-Dem) Core Civil Society Index (CCSI); and (3) counts of anti NGO laws.
+
+If restrictions on religion and civil society are empirically distinct, scholars in each domain must engage more carefully with the other; if they are not, one can serve as a proxy for the other. By mapping the countries and conditions in which FBNGOs face compound regulatory burdens, the project identifies priority contexts for monitoring, advocacy, and operational support.
+
+### References

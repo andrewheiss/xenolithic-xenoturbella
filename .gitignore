@@ -1,0 +1,20 @@
+# R stuff
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto stuff
+/.quarto/
+_site/
+_freeze/
+/.luarc.json
+
+_output/
+
+admin/
+
+misc/*_files
+misc/*.html
+
+**/*.quarto_ipynb
